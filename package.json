@@ -1,0 +1,15 @@
+{
+    "name": "site-responsivo",
+    "version": "1.0.0",
+    "description": "Site responsivo com HTML, CSS, PHP e Node.js",
+    "main": "src/server.js",
+    "scripts": {
+      "start": "node src/server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
